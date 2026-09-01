@@ -1,0 +1,7 @@
+{
+  "name": "InvestAI — AI Investment Committee",
+  "description": "Institutional-grade multi-agent AI investment intelligence platform synthesizing technical, fundamental, sentiment, and risk analysis for retail investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
